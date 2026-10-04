@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+tokens/
+*.log
+.DS_Store
+
+# scratch
+.t*.mjs
+*.ndjson
+.server.log
